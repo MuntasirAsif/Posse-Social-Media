@@ -1,16 +1,13 @@
 # possy_app
 
-A new Flutter project.
+🚀 Introducing Posse — a group-based social platform designed to deepen emotional connection and community support.
 
-## Getting Started
+With Mood Mosaic, users can check in and express how they’re feeling, while the Home Screen encourages fun, thought-provoking prompts that spark meaningful group conversations. Whether you're feeling spectacular or need a quiet day, Posse is a safe space to be real, be seen, and be supported.
 
-This project is a starting point for a Flutter application.
+🌈 Built for connection. Designed for care.
+#SocialApp #MentalWellness #UXDesign #Startup
 
-A few resources to get you started if this is your first Flutter project:
+Figma: https://www.figma.com/design/iJzbnnEGsOlvDIUVlkOd5z/Development--Copy-?node-id=0-1&t=FbYEbiAtaYe4DMgi-1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/1d93d1b2-b67d-4edb-bf32-da74256294b2)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
